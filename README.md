@@ -19,3 +19,11 @@ I'm a computer science student who loves turning ideas into intelligent, usable 
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/cozy-corner.svg" width="100%" alt="a cozy corner with a cat, coffee, a plant and fairy lights"/>
+
+<sub>✦ stay cozy, keep building ✦</sub>
+
+</div>

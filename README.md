@@ -1,29 +1,18 @@
-## Hi, I'm Swagatika 👋 👩‍💻
+<p align="center">
+  <img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/cozy-cafe-scene.svg" alt="Cozy night cafe: girl coding with a cat" width="100%"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/banner.svg" width="100%" alt="Swagatika Barik, software developer, AI enthusiast and community mentor"/>
-
-I'm a computer science student who loves turning ideas into intelligent, usable software. I'm drawn to the space where AI meets the real world: small models, smart systems, and apps that work for people. My go-to tools are **Python**, **Java** and **JavaScript**, with **TensorFlow** and **PyTorch** for ML, **FAISS** and **SBERT** for search and embeddings, **React Native** and **Node.js** for building apps, and **Firebase** and **AWS** for shipping them. I believe in learning in public, mentoring others, and building things that actually ship.
-
-<table>
-  <tr>
-    <td width="190" valign="middle">
-      <img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/swag-avatar.svg" width="170" alt="avatar"/>
-    </td>
-    <td valign="middle">
-      <h2>Find me around the web 🌐:</h2>
-      <ul>
-        <li>Sharing updates on <a href="https://www.linkedin.com/in/swagatika-barik1801">LinkedIn</a> 💼</li>
-        <li>Dropping a line at <a href="mailto:swagatikabarik1801@gmail.com">swagatikabarik1801@gmail.com</a> 📬</li>
-        <li>Shipping code right here on <a href="https://github.com/swagatika1801">GitHub</a> 💻</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/cozy-corner.svg" width="100%" alt="a cozy corner with a cat, coffee, a plant and fairy lights"/>
-
-<sub>✦ stay cozy, keep building ✦</sub>
-
-</div>
+<h2 align="center">Hey, I'm Swagatika 👋</h2>
+<p align="center"> <b>CSE Student • AI/ML Enthusiast • Developer</b> </p>
+<p align="center"> Building things, learning new technologies, and turning ideas into code. </p>
+<br>
+<h3 align="center">⚙️ Tech Stack</h3>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,mysql,tensorflow,opencv,react,firebase,flask,aws,git,github&perline=6" height="70"/> </p>
+<br>
+<h3 align="center">🌐 Find Me on the Web</h3>
+<p align="center"> <a href="https://github.com/swagatika1801"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/swagatika-barik1801/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/> </a> <a href="https://www.kaggle.com/swagatikabarik1801"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/> </a> <a href="mailto:swagatikabarik1801@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/> </a> </p>
+<br>
+<h3 align="center">📊 GitHub</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swagatika1801&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/> </p>
+<br>
+<p align="center"> <i>Code • Coffee • Curiosity ☕</i> </p>

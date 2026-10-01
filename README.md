@@ -41,9 +41,20 @@ I'm a computer science student who loves turning ideas into intelligent, usable 
 
 ## ✧ find me around the web 🌐
 
-- 💼 Connecting on [LinkedIn](https://www.linkedin.com/in/swagatika-barik1801)
-- 📬 Writing to me at [swagatikabarik1801@gmail.com](mailto:swagatikabarik1801@gmail.com)
-- 💻 Shipping code right here on [GitHub](https://github.com/swagatika1801)
+<table>
+  <tr>
+    <td width="180" valign="middle">
+      <img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/swag-avatar.svg" width="160" alt="avatar"/>
+    </td>
+    <td valign="middle">
+      <ul>
+        <li>💼 Sharing updates on <a href="https://www.linkedin.com/in/swagatika-barik1801">LinkedIn</a></li>
+        <li>📬 Dropping a line at <a href="mailto:swagatikabarik1801@gmail.com">swagatikabarik1801@gmail.com</a></li>
+        <li>💻 Shipping code right here on <a href="https://github.com/swagatika1801">GitHub</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 

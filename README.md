@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/assets/cat-coffee.svg" width="440" alt="cat with coffee"/>
+<img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/cat-coffee.svg" width="440" alt="cat with coffee"/>
 
 <br/>
 

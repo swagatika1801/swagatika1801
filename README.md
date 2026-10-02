@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/cozy-cafe-scene.svg" alt="Cozy night cafe: girl coding with a cat" width="100%"/>
+  <img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/cozy-cafe-rain.svg" alt="Cozy night cafe: girl coding with a cat" width="100%"/>
 </p>
 
 <h2 align="center">Hey, I'm Swagatika 👋</h2>

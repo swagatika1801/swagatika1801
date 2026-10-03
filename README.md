@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/cozy-cafe-rain.svg" alt="Cozy night cafe: girl coding with a cat" width="100%"/>
+  <a href="https://swagatika1801.github.io/cozy-cafe/">
+    <img src="https://raw.githubusercontent.com/swagatika1801/swagatika1801/main/cozy-cafe-rain.svg" alt="Cozy night cafe: girl coding with a cat" width="100%"/>
+  </a>
+  <br>
+  <a href="https://swagatika1801.github.io/cozy-cafe/"><b>🎧 click the cafe to enter with sound</b></a>
 </p>
 
 <h2 align="center">Hey, I'm Swagatika 👋</h2>
 <p align="center"> <b>CSE Student • AI/ML Enthusiast • Developer</b> </p>
-<p align="center"> Building things, learning new technologies, and turning ideas into code. Currently learning, experimenting, and preparing for the next challenge. ☕💻</p>
+<p align="center"> Building things, learning new technologies, and turning ideas into code. </p>
 <br>
 <h3 align="center">⚙️ Tech Stack</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,mysql,tensorflow,opencv,react,firebase,flask,aws,git,github&perline=6" height="70"/> </p>

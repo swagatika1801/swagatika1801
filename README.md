@@ -8,7 +8,7 @@
 
 <h2 align="center">Hey, I'm Swagatika 👋</h2>
 <p align="center"> <b>CSE Student • AI/ML Enthusiast • Developer</b> </p>
-<p align="center"> Building things, learning new technologies, and turning ideas into code. </p>
+<p align="center"> Building things, learning new technologies, and turning ideas into code. Currently learning, experimenting, and preparing for the next challenge. ☕💻 </p>
 <br>
 <h3 align="center">⚙️ Tech Stack</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,mysql,tensorflow,opencv,react,firebase,flask,aws,git,github&perline=6" height="70"/> </p>
